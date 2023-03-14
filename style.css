@@ -1,9 +1,9 @@
 #menu
 {
-	/* position: fixed;
+	
 	width: 100%;
-	height: 35px;
-	background: lightskyblue; */
+	height: 70px;
+	background: darkslategray; 
 	font-family: 'Open Sans', sans-serif;
 	display: flex;
 	justify-content: space-between;
